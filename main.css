@@ -1,0 +1,35 @@
+.row{
+	border: dotted black 1px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 100%; 
+	box-sizing: border-box;
+	overflow: auto;
+	margin-bottom: 40px;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+.box {
+	display: inline-block;
+	border: solid black 1px;
+	text-align: center;
+	width: 48%;
+	padding-bottom: 120px;
+	margin-bottom: 20px;
+}
+.box2 {
+	display: inline-block;
+	border:solid black 1px;
+	width: 38%;
+	padding-bottom: 120px;
+	text-align: center;
+}
+.box3 {
+	display: inline-block;
+	border: solid black 1px;
+	width: 58%;
+	padding-bottom: 240px;
+	margin: 20px;
+	text-align: center;
+}
