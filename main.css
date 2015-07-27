@@ -8,7 +8,7 @@
 	overflow: auto;
 	margin-bottom: 40px;
 	margin-left: 5px;
-	margin-right: 3px;
+	
 }
 .box {
 	display: inline-block;
@@ -26,10 +26,17 @@
 	text-align: center;
 }
 .box3 {
-	display: inline-block;
+	display: inline-table;
 	border: solid black 1px;
 	width: 58%;
 	padding-bottom: 240px;
 	margin: 20px;
 	text-align: center;
+}
+.littlebox {
+	display: inline-block;
+	border: solid black 1px;
+	text-align: center;
+	width: 8%;
+	height: 50px;
 }
